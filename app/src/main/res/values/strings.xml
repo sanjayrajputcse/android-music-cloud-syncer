@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">phone-music-cloud-syncer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_local_music_files">New Local Files</string>
+    <string name="new_cloud_music_files">New Files from Drive</string>
+    <string name="cloud_music_files">Cloud Music Files</string>
+    <string name="phone_music_files">Phone Music Files</string>
+</resources>
